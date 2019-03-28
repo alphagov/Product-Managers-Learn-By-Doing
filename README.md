@@ -2,7 +2,7 @@
 Product Managers are responsible for the quality of their products, and they use their knowledge of user needs and business goals to frame problems and set priorities for their delivery teams.
 
 ## But we have spotted a gap
-No one in the wider Product Management industry seems to have figured out exactly what Product Managers need to ‘do’, in order to learn and develop.
+No one in the wider Product Management industry seems to have figured out exactly what people who are new to Product Management need to ‘do’, in order to learn and develop.
 
 ## Things you need to ‘do’ to become a successful Product Manager
 So we've had a go at defining version one of this list of; things you need to ‘do’ to learn the Product Management craft, and develop into a successful Product Manager.
