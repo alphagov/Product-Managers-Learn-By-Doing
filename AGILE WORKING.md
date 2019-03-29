@@ -1,6 +1,6 @@
 ## Agile Working 
 
-A product Manager is able to identify and compare the best processes or delivery methods to use, including measuring and evaluating outcomes. They help the team to decide the best approach, manage and visualise outcomes, prioritise work, and work to agreed minimum viable product (MVP) scope.
+A Product Manager is able to identify and compare the best processes or delivery methods to use, including measuring and evaluating outcomes. They help the team to decide the best approach, manage and visualise outcomes, prioritise work, and work to agreed minimum viable product (MVP) scope.
 
 You have:  
 
