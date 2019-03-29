@@ -14,5 +14,16 @@ This list of activities and experiences **is not** intended to be prescriptive, 
 
 **It is** intended to be a guiding framework to support people who are building their Product Management skills become the best [#ProductPeople] (https://twitter.com/hashtag/productpeople) that they can be, and deliver the most valuable outcomes for their users.
 
+* Agile working 
+* Lifecyle perspective
+* Operational management
+* Problem ownership
+* Product ownership
+* Strategic ownership
+* User focus
+* Digital, Data and Technology perspective
+* Financial ownership
+* Understanding constraints
+
 ## License
 The content in this repository is covered by the [Open Government License] (http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
