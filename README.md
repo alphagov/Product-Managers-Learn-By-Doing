@@ -14,7 +14,7 @@ This list of activities and experiences **is not** intended to be prescriptive, 
 
 **It is** intended to be a guiding framework to support people who are building their Product Management skills become the best [#ProductPeople] (https://twitter.com/hashtag/productpeople) that they can be, and deliver the most valuable outcomes for their users.
 
-Disclaimer - some of the suggested activities and experiences in this list overlap, or could apply to several skills (e.g. some of the Product ownership and Strategic ownership activities are very similar).
+**Disclaimer** - some of the suggested activities and experiences in this list overlap, or could apply to several skills (e.g. some of the Product ownership and Strategic ownership activities are very similar).
 
 
 ## Product Manager - Activities and experiences
