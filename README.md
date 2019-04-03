@@ -17,7 +17,7 @@ This list of activities and experiences **is not** intended to be prescriptive, 
 **Disclaimer** - some of the suggested activities and experiences in this list overlap, or could apply to several skills (e.g. some of the Product ownership and Strategic ownership activities are very similar).
 
 
-## Product Manager - Activities and experiences
+## Product Manager - activities and experiences
 
 |  Skill |  Activities and experiences (You have...) |
 |:---:|:---|
