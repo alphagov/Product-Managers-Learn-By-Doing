@@ -70,7 +70,7 @@ This list of activities and experiences **is not** intended to be prescriptive, 
 | Digital perspective  |  Understood the key technical architecture components of my product or service (e.g. the stack) and can describe their key features |
 |  Digital perspective | Considered the assisted digital needs for my product or service  |
 | Digital perspective  |  Assessed the barriers to use of my product or service and considered ways to increase inclusion |
-|  DDigital perspective |  Understood the web content accessibility guidelines (WCAG) and the implications of how these are typically applied to digital products and services |
+|  Digital perspective |  Understood the web content accessibility guidelines (WCAG) and the implications of how these are typically applied to digital products and services |
 |  Financial ownership | Supported or managed the creation of a business case for a product or service including revenue sources, cost factors and financial forecasting  |
 |  Financial ownership | Up-skilled in a new product domain, and am able to describe the features of the market, the key competitors, the needs of the users, value & benefits, and key constraints  |
 |  Understanding constraints |  Observed or supported a service standards assessment |
