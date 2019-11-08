@@ -4,7 +4,7 @@ Product Managers are responsible for the quality of their products, and they use
 ## But we have spotted a gap
 No one in the wider Product Management industry seems to have figured out exactly what people who are new to Product Management need to ‘do’, in order to learn and develop.
 
-## Things you need to ‘do’ to become a successful Product Manager
+## Things you need to ‘do’ to become a successful Product Manager (applies to the Associate Product Manager and Product Manager role levels)
 So we've had a go at defining version one of this list of; things you need to ‘do’ to learn the Product Management craft, and develop into a successful Product Manager.
 
 Based on the role description and skills described in the [Digital, Data and Technology Capability Framework] (https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework), this list of activities and experiences helps people who are building their Product Management skills to take greater ownership over their personal development, and gives practical examples of the things we expect a successful Product Manager to be able to do.
