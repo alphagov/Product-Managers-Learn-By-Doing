@@ -1,5 +1,13 @@
 ## We believe that Product Management is best ‘learnt by doing’
+I have published the following materials to help product managers working at all levels to get better at what we do, and to learn and develop:
+
+* things you need to learn how to ‘do’ to become a successful Product Manager – guidance on this topic is published in this repository!
+* things you need to learn how to ‘do’ to become a successful Product Leader - guidance on this topic is published in another repository [Product-Leadership-Skills] (https://github.com/alphagov/Product-Leadership-skills)
+
+## Defining 'Product Management'
 Product Managers are responsible for the quality of their products, and they use their knowledge of user needs and business goals to frame problems and set priorities for their delivery teams.
+
+The Digital Data and Technology (DDaT) Capability Framework describes the role and skills you need to be a Product Manager, across 5 role levels; Associate Product Manager, Product Manager, Senior Product Manager, Lead Product Manager, Head of Product. [DDaT Capability Framework] (https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework#product-and-delivery:-product-manager)
 
 ## But we have spotted a gap
 No one in the wider Product Management industry seems to have figured out exactly what people who are new to Product Management need to ‘do’, in order to learn and develop.
