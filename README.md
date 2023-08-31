@@ -2,12 +2,12 @@
 I have published the following materials to help product managers working at all levels to get better at what we do, and to learn and develop:
 
 * things you need to learn how to ‘do’ to become a successful Product Manager – guidance on this topic is published in this repository!
-* things you need to learn how to ‘do’ to become a successful Product Leader - guidance on this topic is published in another repository [Product-Leadership-Skills] (https://github.com/alphagov/Product-Leadership-skills)
+* things you need to learn how to ‘do’ to become a successful Product Leader - guidance on this topic is published in another repository [Product-Leadership-Skills](https://github.com/alphagov/Product-Leadership-skills)
 
 ## Defining 'Product Management'
 Product Managers are responsible for the quality of their products, and they use their knowledge of user needs and business goals to frame problems and set priorities for their delivery teams.
 
-The Digital Data and Technology (DDaT) Capability Framework describes the role and skills you need to be a Product Manager, across 5 role levels; Associate Product Manager, Product Manager, Senior Product Manager, Lead Product Manager, Head of Product. [DDaT Capability Framework] (https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework#product-and-delivery:-product-manager)
+The Digital Data and Technology (DDaT) Capability Framework describes the role and skills you need to be a Product Manager, across 5 role levels; Associate Product Manager, Product Manager, Senior Product Manager, Lead Product Manager, Head of Product. [DDaT Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework#product-and-delivery:-product-manager)
 
 ## But we have spotted a gap
 No one in the wider Product Management industry seems to have figured out exactly what people who are new to Product Management need to ‘do’, in order to learn and develop.
@@ -15,12 +15,12 @@ No one in the wider Product Management industry seems to have figured out exactl
 ## Things you need to ‘do’ to become a successful Product Manager (applies to the Associate Product Manager and Product Manager role levels)
 So we've had a go at defining version one of this list of; things you need to ‘do’ to learn the Product Management craft, and develop into a successful Product Manager.
 
-Based on the role description and skills described in the [Digital, Data and Technology Capability Framework] (https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework), this list of activities and experiences helps people who are building their Product Management skills to take greater ownership over their personal development, and gives practical examples of the things we expect a successful Product Manager to be able to do.
+Based on the role description and skills described in the [Digital, Data and Technology Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework), this list of activities and experiences helps people who are building their Product Management skills to take greater ownership over their personal development, and gives practical examples of the things we expect a successful Product Manager to be able to do.
 
 ## How to use this list
 This list of activities and experiences **is not** intended to be prescriptive, or a test of ability.
 
-**It is** intended to be a guiding framework to support people who are building their Product Management skills become the best [#ProductPeople] (https://twitter.com/hashtag/productpeople) that they can be, and deliver the most valuable outcomes for their users.
+**It is** intended to be a guiding framework to support people who are building their Product Management skills become the best [#ProductPeople](https://twitter.com/hashtag/productpeople) that they can be, and deliver the most valuable outcomes for their users.
 
 **Disclaimer** - some of the suggested activities and experiences in this list overlap, or could apply to several skills (e.g. some of the Product ownership and Strategic ownership activities are very similar).
 
@@ -98,4 +98,4 @@ This list of activities and experiences **is not** intended to be prescriptive, 
 | Financial ownership  |  A Product Manager understands the market place, realising the benefit and persuading others that a product is the right one to use. They are able to integrate a product with other services, and are capable of planning and driving the adoption of their products. They are able to realise benefits by linking work in progress back to the business case, and can build business cases based on user need. |
 |  Understanding constraints | A Product Manager can identify and understand constraints, and is able to communicate these and work within them. They are able to challenge the validity of constraints, and ensure standards are being met.  |
 ## License
-The content in this repository is covered by the [Open Government License] (http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+The content in this repository is covered by the [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
